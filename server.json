@@ -1,0 +1,164 @@
+{
+  "transactions": [
+    {
+      "description": "Débito APAG",
+      "price": 87,
+      "category": "Vendas de produtos",
+      "type": "income",
+      "createdAt": "2022-11-10T01:46:24.582Z",
+      "id": 1
+    },
+    {
+      "description": "Débito APAG",
+      "price": 62,
+      "category": "Vendas de produtos",
+      "type": "income",
+      "createdAt": "2022-11-10T01:47:15.661Z",
+      "id": 2
+    },
+    {
+      "description": "Soldo",
+      "price": 2365,
+      "category": "Sálario",
+      "type": "income",
+      "createdAt": "2022-11-10T01:48:12.573Z",
+      "id": 3
+    },
+    {
+      "description": "Vendas Futuras",
+      "price": 500,
+      "category": "Vendas de produtos",
+      "type": "income",
+      "createdAt": "2022-11-10T01:48:44.645Z",
+      "id": 4
+    },
+    {
+      "description": "Dinheiro Guardado",
+      "price": 150,
+      "category": "Débito",
+      "type": "income",
+      "createdAt": "2022-11-10T01:51:05.266Z",
+      "id": 5
+    },
+    {
+      "description": "Mensalidade da Faculdade",
+      "price": 464,
+      "category": "Faculdade",
+      "type": "outcome",
+      "createdAt": "2022-11-10T01:56:27.986Z",
+      "id": 6
+    },
+    {
+      "description": "Mensalidade da Faculdade Dezembro",
+      "price": 454,
+      "category": "Faculdade",
+      "type": "outcome",
+      "createdAt": "2022-11-10T01:57:17.811Z",
+      "id": 7
+    },
+    {
+      "description": "Gastos de Novembro",
+      "price": 450,
+      "category": "Despesas",
+      "type": "outcome",
+      "createdAt": "2022-11-10T01:59:21.002Z",
+      "id": 8
+    },
+    {
+      "description": "Fatura Cartão Atacadão",
+      "price": 1596,
+      "category": "Fatura Cartão",
+      "type": "outcome",
+      "createdAt": "2022-11-10T02:02:57.162Z",
+      "id": 9
+    },
+    {
+      "description": "Fatura cartão Itaú",
+      "price": 643,
+      "category": "Fatura do Cartão",
+      "type": "outcome",
+      "createdAt": "2022-11-10T02:08:02.481Z",
+      "id": 10
+    },
+    {
+      "description": "Fatura do cartão Nubank",
+      "price": 310,
+      "category": "Fatura do Cartão",
+      "type": "outcome",
+      "createdAt": "2022-11-10T02:09:44.936Z",
+      "id": 11
+    },
+    {
+      "description": "Pagar fatura do carro novembro",
+      "price": 700,
+      "category": "Fatura do Carro",
+      "type": "outcome",
+      "createdAt": "2022-11-10T02:45:50.162Z",
+      "id": 12
+    },
+    {
+      "description": "Fatura do carro Dezembro",
+      "price": 1400,
+      "category": "Fatura do Carro",
+      "type": "outcome",
+      "createdAt": "2022-11-10T02:46:29.224Z",
+      "id": 13
+    },
+    {
+      "description": "Concerto do carro",
+      "price": 600,
+      "category": "Carro",
+      "type": "outcome",
+      "createdAt": "2022-11-10T02:47:34.320Z",
+      "id": 14
+    },
+    {
+      "description": "Soldo",
+      "price": 2360,
+      "category": "Salário",
+      "type": "income",
+      "createdAt": "2022-11-10T02:49:05.367Z",
+      "id": 15
+    },
+    {
+      "description": "Fatura da Faculdade Janeiro",
+      "price": 454,
+      "category": "Faculdade",
+      "type": "outcome",
+      "createdAt": "2022-11-10T02:50:42.638Z",
+      "id": 16
+    },
+    {
+      "description": "Despesas de Janeiro",
+      "price": 700,
+      "category": "Despesas",
+      "type": "outcome",
+      "createdAt": "2022-11-10T02:51:04.316Z",
+      "id": 17
+    },
+    {
+      "description": "Coisas pra Zara",
+      "price": 600,
+      "category": "Filha",
+      "type": "outcome",
+      "createdAt": "2022-11-10T02:52:00.017Z",
+      "id": 18
+    },
+    {
+      "description": "ashqf",
+      "price": 1231,
+      "category": "asfqwfqd",
+      "type": "outcome",
+      "createdAt": "2022-12-01T20:49:02.637Z",
+      "id": 19
+    },
+    {
+      "description": "weq",
+      "price": 213,
+      "category": "sdawq",
+      "type": "income",
+      "createdAt": "2022-12-01T20:50:28.687Z",
+      "id": 20
+    }
+  ]
+}
