@@ -1,6 +1,6 @@
 {
-  "homepage": "https://roymust.github.io/dt-money",
   "name": "dt-money",
+  "homepage": "dt-money/",
   "private": true,
   "version": "0.1.0",
   "type": "module",
